@@ -309,6 +309,8 @@ jobs:
           
           index = {
               "version": "1.0.0",
+              "name": "Partnership Addons",
+              "tagline": "Blender addons for partners",
               "blocklist": [],
               "data": extensions
           }
