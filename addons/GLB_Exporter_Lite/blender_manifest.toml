@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "glb_exporter_lite"
+name = "GLB Exporter Lite"
+version = "1.0.0"
+tagline = "Export collections as GLB with automatic scaling and material baking"
+maintainer = "Dan & Popi from 3D Content Team"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Import/export GLB files"
