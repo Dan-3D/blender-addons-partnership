@@ -1,6 +1,6 @@
 bl_info = {
     "name": "GLBNameForm",
-    "author": "",
+    "author": "Popi",
     "version": (1, 0, 0),
     "blender": (5, 0, 0),
     "location": "View3D > N-Panel > GLBNameForm",
