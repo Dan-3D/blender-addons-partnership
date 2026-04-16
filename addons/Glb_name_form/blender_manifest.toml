@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "glb_name_form"
+name = "glb name form"
+version = "1.0.0"
+tagline = ""
+maintainer = "Daniel Marcin from 3D Content Team (Prompted in Claude AI)"
+type = "add-on"
+blender_version_min = "5.5.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Read and write files"
