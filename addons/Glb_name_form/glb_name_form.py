@@ -2,7 +2,7 @@ bl_info = {
     "name": "GLBNameForm",
     "author": "",
     "version": (1, 0, 0),
-    "blender": (3, 6, 0),
+    "blender": (5, 0, 0),
     "location": "View3D > N-Panel > GLBNameForm",
     "description": "Export active collection as GLB with structured naming convention",
     "category": "Import-Export",
